@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: PEC4_Borja_Villena_Pardo
+Version: 0.1
+Summary: Entregable para la PEC4 de la asignatura Programación para la Ciencia de Datos, Grado en Ingeniería para Ciencia de Datos Aplicada. Universidad Oberta de Catalunya, UOC
+Home-page: https://github.com/bvillenap7/UOC_PEC4
+Author: Borja Villena Pardo
+Author-email: bvillenap@uoc.edu
+License-File: LICENSE.txt
+Requires-Dist: contourpy==1.2.0
+Requires-Dist: cycler==0.12.1
+Requires-Dist: fonttools==4.47.2
+Requires-Dist: kiwisolver==1.4.5
+Requires-Dist: matplotlib==3.8.2
+Requires-Dist: numpy==1.26.3
+Requires-Dist: packaging==23.2
+Requires-Dist: pandas==2.1.4
+Requires-Dist: pillow==10.2.0
+Requires-Dist: pyparsing==3.1.1
+Requires-Dist: python-dateutil==2.8.2
+Requires-Dist: pytz==2023.3.post1
+Requires-Dist: setuptools==69.0.3
+Requires-Dist: six==1.16.0
+Requires-Dist: tzdata==2023.4
